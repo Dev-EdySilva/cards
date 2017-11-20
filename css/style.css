@@ -1,0 +1,20 @@
+#folha-a4{
+	width: 210mm;
+	background-color: #ddd;
+}
+
+#folha-a4 .card{
+	float: left;
+	width: 60mm;
+	background-color: red;
+}
+
+.card.teal{
+	background:teal !important;
+	color: #fff;
+}
+
+.card.black{
+	background-color: #000 !important;
+	color: #fff;
+}
